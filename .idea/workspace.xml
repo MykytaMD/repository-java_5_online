@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df87892e-cf94-4cf1-8bd3-97867afea76c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/Package/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/Package/Printms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/Simple/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/minimal_packages/ua/com/alevel/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/minimal_packages/ua/com/alevel/test/Printms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/minimal_packages/ua/com/alevel/test/Printms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/separate_packages/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_1/separate_packages/test/Printms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/Minimal_proj/src/ua/com/alevel/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/Minimal_proj/src/ua/com/alevel/test/Printms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/build_jar/build/classes/ua/com/alevel/HelloIegor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/build_jar/build/classes/ua/com/alevel/test/Printms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/build_jar/resources/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/build_jar/src/ua/com/alevel/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/build_jar/src/ua/com/alevel/test/Printms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/minimal_jar/build/classes/ua/com/alevel/HelloIegor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/minimal_jar/build/classes/ua/com/alevel/test/Printms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/minimal_jar/resources/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/minimal_jar/src/ua/com/alevel/HelloIegor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1_compilation/Level_2/minimal_jar/src/ua/com/alevel/test/Printms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df87892e-cf94-4cf1-8bd3-97867afea76c" name="Changes" comment="HW done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +55,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675705682044</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW done">
+      <created>1675784692573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675784692574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW done" />
   </component>
 </project>
